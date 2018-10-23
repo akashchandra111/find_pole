@@ -2,7 +2,7 @@
 #define FIND_POLE
 
 #define INFINITY -1
-#define DEBUG 1
+#define DEBUG 0
 #define PRINT_DBG printf("[DEBUG] ")
 
 int average(int* array, int count);
